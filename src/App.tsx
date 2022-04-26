@@ -14,7 +14,7 @@ function App() {
             <TopCars/>
             <Buttons/>
             <Counter startValue={0}
-                     maxValue={5}/>
+                     maxValue={6}/>
             <Filter/>
             <LessonInput />
         </>
